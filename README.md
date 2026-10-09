@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, sou o Bruno 👋
 
-<!--
-**BrunoBraia/BrunoBraia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com interesse em desenvolvimento de software, automação e lógica de baixo nível.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Estudos
+- **Linguagens:** C++, Python, C
+- **Foco atual:** Lógica de programação, estruturas de dados e desenvolvimento de software
+- **Ferramentas:** Git, GitHub, VS Code
+
+---
+
+### 📌 Em Destaque
+- [**automacao-vendas-python**](https://github.com/BrunoBraia/automacao-vendas-python): Script para automação e geração de relatórios de vendas com gráficos, integração em Excel e exportação em PDF.
+
+---
+
+### 📫 Contato
+- E-mail: bruno.botega.dev@gmail.com
